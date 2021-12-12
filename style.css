@@ -1,0 +1,8 @@
+.box1, .box2, .box3{
+    border: 5px black solid;
+    width: 33%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
